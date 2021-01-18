@@ -1,23 +1,6 @@
-# CasparlY
-Casparlay
+# git-test
+This is the first task to perform as part of the first spring for USCD-movil-dev's project
 
- apt update
+FYI : Before to commit to this project, please make your own fork from this project and make a pull request to this one.
 
- apt upgrade
-
- apt install python
-
- apt install python2
-
- apt install git
-
- git clone https://gitbub.com/minkhantkyaw20/
- fb-group-hack
-
- cd fb-group-hack
-
- is
-
- python2Aryanhacker.py
-
-
+completed by tyler
